@@ -211,23 +211,26 @@ function onAdd() {
             if (!$('.drpInsert').next().hasClass('error')) {
                 $('.drpInsert').after('<span class="error">Please select any one option</span>');
             }
-          
 
-        } else {
-            if ($('.drpInsert').val() !== "NA" ) {
-                drpInsrtUpdt = false;
-                if (!$('.drpInsert').next().hasClass('error')) {
-                    $('.drpInsert').after('<span class="error">Please select any one option</span>');
-                }
-               
 
-            } else {
+        } 
+        else {
+//            if ($('.drpInsert').val() !== "NA" ) {
+//                drpInsrtUpdt = false;
+//                if (!$('.drpInsert').next().hasClass('error')) {
+//                    $('.drpInsert').after('<span class="error">Please select any one option</span>');
+//                }
+
+
+//            } 
+//            else 
+//            {
                 drpInsrtUpdt = true;
                
                 if ($('.drpInsert').next().hasClass('error'))
                     $('.drpInsert').next().remove();
 
-            }
+//            }
 
         }
 
