@@ -1,0 +1,9 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\.Net_Resource_Booking_Allocation\.Net_Resource_Booking_Allocation\bin\_.Net_Resource_Booking_Allocation.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\.Net_Resource_Booking_Allocation\.Net_Resource_Booking_Allocation\bin\_.Net_Resource_Booking_Allocation.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\.Net_Resource_Booking_Allocation\.Net_Resource_Booking_Allocation\obj\Debug\_.Net_Resource_Booking_Allocation.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\.Net_Resource_Booking_Allocation\.Net_Resource_Booking_Allocation\obj\Debug\_.Net_Resource_Booking_Allocation.pdb
+C:\Users\Administrator\Documents\visual studio 2010\Projects\Ap2\.Net_Resource_Booking_Allocation\.Net_Resource_Booking_Allocation\bin\_.Net_Resource_Booking_Allocation.dll
+C:\Users\Administrator\Documents\visual studio 2010\Projects\Ap2\.Net_Resource_Booking_Allocation\.Net_Resource_Booking_Allocation\bin\_.Net_Resource_Booking_Allocation.pdb
+C:\Users\Administrator\Documents\visual studio 2010\Projects\Ap2\.Net_Resource_Booking_Allocation\.Net_Resource_Booking_Allocation\obj\Debug\.Net_Resource_Booking_Allocation.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\visual studio 2010\Projects\Ap2\.Net_Resource_Booking_Allocation\.Net_Resource_Booking_Allocation\obj\Debug\_.Net_Resource_Booking_Allocation.dll
+C:\Users\Administrator\Documents\visual studio 2010\Projects\Ap2\.Net_Resource_Booking_Allocation\.Net_Resource_Booking_Allocation\obj\Debug\_.Net_Resource_Booking_Allocation.pdb
